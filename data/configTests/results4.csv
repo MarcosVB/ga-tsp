@@ -1,0 +1,5 @@
+iteration,selection,crossover,mutation,elitism,asexual_reproduction,population,mutation_rate,generations,runtime,result
+0,roulette,single_point,swap,False,True,population:200,0.01,1000,12.979084491729736,20528.35748820513
+1,roulette,single_point,swap,True,True,population:200,0.01,1000,12.90611982345581,10513.182932743826
+2,tournament,single_point,swap,False,True,population:200,0.01,1000,12.601479291915894,9597.805327758251
+3,tournament,single_point,swap,True,True,population:200,0.01,1000,12.567981719970703,10477.555375371508

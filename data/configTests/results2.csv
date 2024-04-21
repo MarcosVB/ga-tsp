@@ -1,0 +1,17 @@
+iteration,selection,crossover,mutation,elitism,asexual_reproduction,population,mutation_rate,generations,runtime,result
+0,roulette,single_point,swap,False,False,200,0.01,1000,9.207427978515625,21552.585156343222
+1,roulette,single_point,swap,False,True,200,0.01,1000,14.45566463470459,20473.27177515348
+2,roulette,single_point,swap,True,False,200,0.01,1000,9.380233526229858,11484.987003259977
+3,roulette,single_point,swap,True,True,200,0.01,1000,12.603424549102783,10033.57838499848
+4,roulette,crossover_uniform,swap,False,False,200,0.01,1000,7.357173442840576,32419.034355074877
+5,roulette,crossover_uniform,swap,False,True,200,0.01,1000,14.677482604980469,20243.412885837646
+6,roulette,crossover_uniform,swap,True,False,200,0.01,1000,9.02745008468628,12637.567161680498
+7,roulette,crossover_uniform,swap,True,True,200,0.01,1000,15.396624088287354,10868.785626244458
+8,tournament,single_point,swap,False,False,200,0.01,1000,4.961246490478516,27652.614327902353
+9,tournament,single_point,swap,False,True,200,0.01,1000,12.72568416595459,10430.162793523705
+10,tournament,single_point,swap,True,False,200,0.01,1000,11.291579723358154,10747.517882930639
+11,tournament,single_point,swap,True,True,200,0.01,1000,12.630515098571777,11612.383472880794
+12,tournament,crossover_uniform,swap,False,False,200,0.01,1000,7.4009504318237305,30353.47489544066
+13,tournament,crossover_uniform,swap,False,True,200,0.01,1000,16.256560802459717,10318.122130835014
+14,tournament,crossover_uniform,swap,True,False,200,0.01,1000,7.450279474258423,25889.90077032575
+15,tournament,crossover_uniform,swap,True,True,200,0.01,1000,15.288400411605835,10063.124571090104
